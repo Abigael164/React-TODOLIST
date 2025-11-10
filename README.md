@@ -20,7 +20,7 @@ Perfect for learning and practicing React state management and component design.
 - **React** (useState, useEffect)
 - **JavaScript (ES6+)**
 - **HTML5 & CSS3**
-- **Vite / Create React App** (depending on setup)
+- **Vite**
 
 ---
 
