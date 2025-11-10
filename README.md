@@ -5,17 +5,17 @@ Perfect for learning and practicing React state management and component design.
 
 ---
 
-## 🚀 Features
+##  Features
 
-✅ Add new tasks  
-✏️ Update existing tasks  
-🗑️ Delete tasks  
-💾 Data persistence using local storage *(optional if implemented)*  
-🎨 Clean and responsive UI  
+- Add new tasks  
+- Update existing tasks  
+- Delete tasks  
+- Data persistence using local storage *(optional if implemented)*  
+- Clean and responsive UI  
 
 ---
 
-## 🧰 Technologies Used
+## Technologies Used
 
 - **React** (useState, useEffect)
 - **JavaScript (ES6+)**
@@ -24,8 +24,3 @@ Perfect for learning and practicing React state management and component design.
 
 ---
 
-## 📦 Installation & Setup
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/react-todo-list.git
