@@ -10,8 +10,8 @@ Perfect for learning and practicing React state management and component design.
 - Add new tasks  
 - Update existing tasks  
 - Delete tasks  
-- Data persistence using local storage *(optional if implemented)*  
-- Clean and responsive UI  
+- Data persistence using local storage  
+- Clean and responsive User Interface
 
 ---
 
